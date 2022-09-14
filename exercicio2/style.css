@@ -6,4 +6,13 @@
 main{
   padding-top: 20px;
   display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items:center;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
 }
